@@ -47,7 +47,7 @@
       "href": "/applications/",
       "summary": "展示虚拟试衣、智能运动服装、数字展陈等可落地应用场景。",
       "image": "/uploads/87bd26da52635bc7.png",
-      "count": "5 类应用"
+      "count": "4 类应用"
     },
     {
       "key": "digital-fashion",
@@ -56,7 +56,7 @@
       "href": "/digital-fashion/",
       "summary": "呈现数字服装平台、虚拟样衣、材料数据库与跨平台展示能力。",
       "image": "/uploads/11b317448cd40339.png",
-      "count": "6 个模块"
+      "count": "4 个模块"
     }
   ],
   "stats": [
@@ -111,10 +111,10 @@
       "description": "近日，实验室在人工智能与服装数字化研究领域取得新进展。研究成果 “Frequency Domain Feature Enhancement Network for Clothing Semantic Segmentation”（面向服装语义分割的频域特征增强网络）已在线发表于人工智能领域国际期刊 Expert Systems with Applications，论文数字对象唯一标识符为 DOI：10.1016/j.eswa.2026.133345。该论文于2026年6月19日正式上线。\n    服装语义分割旨在对图像中的上衣、裤装、裙装、鞋帽及人体部位等区域进行像素级识别，是服装虚拟试穿、智能搭配、商品图像检索、数字人生成和服装图像编辑等应用的重要基础。然而，真实场景中的服装图像通常存在背景复杂、人体姿态变化明显、服装相互遮挡、类别尺度差异较大以及边缘纹理细节丰富等问题，容易造成服装区域识别不完整、小尺度目标遗漏和边界分割不准确。\n    针对上述问题，论文提出了一种面向服装语义分割的频域特征增强网络。该方法以Swin Transformer和Mask2Former分割框架为基础，将频域信息建模与多尺度空间特征学习相结合，重点设计了频域特征增强模块和多尺度特征注意力模块。\n    其中，频域特征增强模块（Frequency Domain Feature Enhancement，FDFE）利用离散小波变换将视觉特征分解为低频结构信息与高频细节信息。通过对低频分量进行递归建模，网络能够更加充分地提取人体轮廓、服装整体形态和区域布局等全局结构特征；同时保留高频分量中的服装边缘、纹理变化和局部细节，从而提升模型对复杂服装结构的表达能力。\n    多尺度特征注意力模块（Multi-scale Feature Attention，MSFA）采用不同尺度的卷积操作提取多层次上下文信息，并通过注意力机制自适应融合各尺度特征。该模块能够兼顾大面积服装区域与领口、袖口、鞋帽等较小目标，有效增强模型对尺度变化、局部遮挡和细粒度服装部件的感知能力。\n    研究团队在CIHP、ATR等服装与人体解析数据集上开展了系统实验，并进一步在Leaf、Aeroscapes等跨领域数据集上验证了模型的适用性。实验结果表明，所提出的方法能够有效改善复杂背景、目标遮挡和尺度变化条件下的分割效果，在平均交并比等指标上取得了稳定提升，展现出良好的场景适应能力和应用潜力。\n    该研究将频域结构分析与Transformer语义建模相结合，为服装图像中的全局结构理解和局部细节保持提供了新的技术思路。相关成果可为服装虚拟试穿、智能服装设计、数字时尚、服装图像生成与编辑以及纺织服装行业数字化升级提供技术支撑。\n    未来，实验室将继续围绕人工智能与纺织服装交叉领域开展研究，进一步探索服装视觉大模型、开放词汇服装解析、多模态服装生成、三维虚拟试衣及数字服装资产构建等前沿方向，推动人工智能技术在纺织服装产业中的创新应用。",
       "image": "/uploads/3943773fd492c63a.png",
       "descriptionStyle": {
-        "textAlign": "left"
+        "textAlign": "justify"
       },
       "descriptionImages": [],
-      "descriptionHtml": "<span style=\"text-align: left; display: block;\"><p class=\"MsoNormal\" style=\"text-indent:21.0000pt;mso-char-indent-count:2.0000;line-height:114%;\"></p><font face=\"宋体\"><span style=\"text-align: center; display: block;\"></span><span style=\"text-align: justify; display: block;\"><span style=\"text-align: center; display: block;\"><br></span>    近日，实验室在人工智能与服装数字化研究领域取得新进展。研究成果 “Frequency Domain Feature Enhancement Network for Clothing Semantic Segmentation”（面向服装语义分割的频域特征增强网络）已在线发表于人工智能领域国际期刊 Expert Systems with Applications，论文数字对象唯一标识符为 DOI：10.1016/j.eswa.2026.133345。该论文于2026年6月19日正式上线。</span></font><font face=\"宋体\"><span style=\"text-align: justify; display: block;\"><img src=\"/uploads/0e06844106e2e8ff.png\" alt=\"简介插图\" class=\"descriptionInlineImage\" style=\"margin: 12px auto;\"></span><div><div style=\"text-align: justify;\"><span style=\"text-align: left;\">    服装语义分割旨在对图像中的上衣、裤装、裙装、鞋帽及人体部位等区域进行像素级识别，是服装虚拟试穿、智能搭配、商品图像检索、数字人生成和服装图像编辑等应用的重要基础。然而，真实场景中的服装图像通常存在背景复杂、人体姿态变化明显、服装相互遮挡、类别尺度差异较大以及边缘纹理细节丰富等问题，容易造成服装区域识别不完整、小尺度目标遗漏和边界分割不准确。</span></div><img src=\"/uploads/43c34f947bb63d21.png\" alt=\"简介插图\" class=\"descriptionInlineImage\" style=\"max-width: 100%; display: block; margin: 12px auto;\">    针对上述问题，论文提出了一种面向服装语义分割的频域特征增强网络。该方法以Swin Transformer和Mask2Former分割框架为基础，将频域信息建模与多尺度空间特征学习相结合，重点设计了频域特征增强模块和多尺度特征注意力模块。\n    其中，频域特征增强模块（Frequency Domain Feature Enhancement，FDFE）利用离散小波变换将视觉特征分解为低频结构信息与高频细节信息。通过对低频分量进行递归建模，网络能够更加充分地提取人体轮廓、服装整体形态和区域布局等全局结构特征；同时保留高频分量中的服装边缘、纹理变化和局部细节，从而提升模型对复杂服装结构的表达能力。\n    多尺度特征注意力模块（Multi-scale Feature Attention，MSFA）采用不同尺度的卷积操作提取多层次上下文信息，并通过注意力机制自适应融合各尺度特征。该模块能够兼顾大面积服装区域与领口、袖口、鞋帽等较小目标，有效增强模型对尺度变化、局部遮挡和细粒度服装部件的感知能力。\n    研究团队在CIHP、ATR等服装与人体解析数据集上开展了系统实验，并进一步在Leaf、Aeroscapes等跨领域数据集上验证了模型的适用性。实验结果表明，所提出的方法能够有效改善复杂背景、目标遮挡和尺度变化条件下的分割效果，在平均交并比等指标上取得了稳定提升，展现出良好的场景适应能力和应用潜力。\n    该研究将频域结构分析与Transformer语义建模相结合，为服装图像中的全局结构理解和局部细节保持提供了新的技术思路。相关成果可为服装虚拟试穿、智能服装设计、数字时尚、服装图像生成与编辑以及纺织服装行业数字化升级提供技术支撑。\n    未来，实验室将继续围绕人工智能与纺织服装交叉领域开展研究，进一步探索服装视觉大模型、开放词汇服装解析、多模态服装生成、三维虚拟试衣及数字服装资产构建等前沿方向，推动人工智能技术在纺织服装产业中的创新应用。</div></font></span>"
+      "descriptionHtml": "<span style=\"text-align: left; display: block;\"><p class=\"MsoNormal\" style=\"text-indent:21.0000pt;mso-char-indent-count:2.0000;line-height:114%;\"></p><font face=\"宋体\"><span style=\"text-align: center; display: block;\"></span><span style=\"text-align: justify; display: block;\"><span style=\"text-align: center; display: block;\"></span></span></font><span style=\"text-align: justify; display: block;\"><font face=\"宋体\"><span style=\"text-align: justify; display: block;\"><span style=\"text-align: center; display: block;\"><br></span>    近日，实验室在人工智能与服装数字化研究领域取得新进展。研究成果 “Frequency Domain Feature Enhancement Network for Clothing Semantic Segmentation”（面向服装语义分割的频域特征增强网络）已在线发表于人工智能领域国际期刊 Expert Systems with Applications，论文数字对象唯一标识符为 DOI：10.1016/j.eswa.2026.133345。该论文于2026年6月19日正式上线。</span></font><font face=\"宋体\"><span style=\"text-align: justify; display: block;\"><img src=\"/uploads/0e06844106e2e8ff.png\" alt=\"简介插图\" class=\"descriptionInlineImage isSelected\" style=\"margin: 12px auto;\"></span><div><div style=\"text-align: justify;\"><span style=\"text-align: left;\">    服装语义分割旨在对图像中的上衣、裤装、裙装、鞋帽及人体部位等区域进行像素级识别，是服装虚拟试穿、智能搭配、商品图像检索、数字人生成和服装图像编辑等应用的重要基础。然而，真实场景中的服装图像通常存在背景复杂、人体姿态变化明显、服装相互遮挡、类别尺度差异较大以及边缘纹理细节丰富等问题，容易造成服装区域识别不完整、小尺度目标遗漏和边界分割不准确。</span></div><img src=\"/uploads/43c34f947bb63d21.png\" alt=\"简介插图\" class=\"descriptionInlineImage\" style=\"max-width: 100%; display: block; margin: 12px auto;\">    针对上述问题，论文提出了一种面向服装语义分割的频域特征增强网络。该方法以Swin Transformer和Mask2Former分割框架为基础，将频域信息建模与多尺度空间特征学习相结合，重点设计了频域特征增强模块和多尺度特征注意力模块。\n    其中，频域特征增强模块（Frequency Domain Feature Enhancement，FDFE）利用离散小波变换将视觉特征分解为低频结构信息与高频细节信息。通过对低频分量进行递归建模，网络能够更加充分地提取人体轮廓、服装整体形态和区域布局等全局结构特征；同时保留高频分量中的服装边缘、纹理变化和局部细节，从而提升模型对复杂服装结构的表达能力。\n    多尺度特征注意力模块（Multi-scale Feature Attention，MSFA）采用不同尺度的卷积操作提取多层次上下文信息，并通过注意力机制自适应融合各尺度特征。该模块能够兼顾大面积服装区域与领口、袖口、鞋帽等较小目标，有效增强模型对尺度变化、局部遮挡和细粒度服装部件的感知能力。\n    研究团队在CIHP、ATR等服装与人体解析数据集上开展了系统实验，并进一步在Leaf、Aeroscapes等跨领域数据集上验证了模型的适用性。实验结果表明，所提出的方法能够有效改善复杂背景、目标遮挡和尺度变化条件下的分割效果，在平均交并比等指标上取得了稳定提升，展现出良好的场景适应能力和应用潜力。\n    该研究将频域结构分析与Transformer语义建模相结合，为服装图像中的全局结构理解和局部细节保持提供了新的技术思路。相关成果可为服装虚拟试穿、智能服装设计、数字时尚、服装图像生成与编辑以及纺织服装行业数字化升级提供技术支撑。\n    未来，实验室将继续围绕人工智能与纺织服装交叉领域开展研究，进一步探索服装视觉大模型、开放词汇服装解析、多模态服装生成、三维虚拟试衣及数字服装资产构建等前沿方向，推动人工智能技术在纺织服装产业中的创新应用。</div></font></span><font face=\"宋体\"><div></div></font></span>"
     },
     {
       "title": "学术进展｜实验室在脑机接口控制机械臂多目标抓取方面取得新进展",
@@ -227,44 +227,36 @@
   ],
   "applications": [
     {
-      "title": "虚拟试衣系统",
-      "description": "支持人体尺寸采集、服装上身效果预览和面料替换，面向电商、门店和教学场景。",
-      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1000&q=88",
+      "title": "电力作业风险识别装置：为电力作业全过程监督、违章行为预警和企业安全生产管理提供可靠保障",
+      "description": "“电力作业风险识别装置”面向变电站、配电室及户外电力施工等复杂作业场景，融合机器视觉、深度学习、目标检测和智能视频分析技术，可对现场人员、作业行为、防护装备及危险区域进行实时识别，为电力作业安全监管提供智能化技术支撑。装置经过多代研发与升级，具有识别精度高、环境适应能力强、部署便捷等特点，能够在室内外光照变化、人员遮挡和复杂背景条件下稳定运行。\n\n系统操作界面简洁直观，管理人员输入用户名、密码及作业地点后即可登录。平台能够接入现场摄像机或便携式识别设备，对视频画面进行实时分析，自动识别作业人员数量、安全帽、工作服、工作手套等安全防护用品的佩戴情况，并对人员进入危险区域、登高作业、违规攀爬、误开设备柜门及现场人数不符合安全要求等异常行为进行检测。当发现风险或违章操作时，系统会在画面中标注目标，同时生成异常信息记录，并通过语音或界面提示及时告警，提醒现场人员立即整改。\n\n平台支持图片保存、视频存储、历史记录查询和作业过程追溯，便于管理人员开展安全分析与责任核查。该装置已在多个电力作业场景中开展测试和应用，可有效降低传统人工监控的工作压力，提升安全风险发现的及时性与准确性，为电力作业全过程监督、违章行为预警和企业安全生产管理提供可靠保障。",
+      "image": "/uploads/cc002adf45ff9ef2.mp4",
       "descriptionStyle": {},
       "descriptionImages": [],
-      "descriptionHtml": ""
+      "descriptionHtml": "<p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">“电力作业风险识别装置”面向变电站、配电室及户外电力施工等复杂作业场景，融合机器视觉、深度学习、目标检测和智能视频分析技术，可对现场人员、作业行为、防护装备及危险区域进行实时识别，为电力作业安全监管提供智能化技术支撑。装置经过多代研发与升级，具有识别精度高、环境适应能力强、部署便捷等特点，能够在室内外光照变化、人员遮挡和复杂背景条件下稳定运行。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">系统操作界面简洁直观，管理人员输入用户名、密码及作业地点后即可登录。平台能够接入现场摄像机或便携式识别设备，对视频画面进行实时分析，自动识别作业人员数量、安全帽、工作服、工作手套等安全防护用品的佩戴情况，并对人员进入危险区域、登高作业、违规攀爬、误开设备柜门及现场人数不符合安全要求等异常行为进行检测。当发现风险或违章操作时，系统会在画面中标注目标，同时生成异常信息记录，并通过语音或界面提示及时告警，提醒现场人员立即整改。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">平台支持图片保存、视频存储、历史记录查询和作业过程追溯，便于管理人员开展安全分析与责任核查。该装置已在多个电力作业场景中开展测试和应用，可有效降低传统人工监控的工作压力，提升安全风险发现的及时性与准确性，为电力作业全过程监督、违章行为预警和企业安全生产管理提供可靠保障。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>"
     },
     {
-      "title": "智能运动服装",
-      "description": "通过传感器与算法识别姿态、压力和动作节律，为训练反馈和健康监测提供依据。",
-      "image": "/uploads/747b4c441099e106.mp4",
+      "title": "脑电驱动智能机械臂系统：应用于肢体运动功能障碍人员辅助、智能康复训练、无接触设备控制及危险环境远程作业等场景",
+      "description": "“脑电驱动智能机械臂系统”主要由脑电信号采集设备、视觉感知模块、脑机交互界面、智能控制算法以及多自由度机械臂组成。实验过程中，使用者佩戴脑电采集装置，通过注视屏幕中不同位置的视觉刺激目标产生相应的脑电响应。系统对采集到的脑电信号进行滤波、特征提取与意图识别，从而判断使用者希望机械臂选择和操作的目标物体。\n\n在目标识别阶段，摄像机实时采集桌面场景，视觉算法对多个物体进行检测、定位与标注，并将候选目标映射到脑机交互界面。使用者无需通过键盘、鼠标或手柄进行复杂操作，只需集中注意力选择目标，即可向系统发送控制意图。识别到目标后，机械臂根据物体的位置、尺寸和姿态自主规划运动轨迹，完成手臂移动、末端姿态调整、抓取、搬运及放置等连续操作。视频中，机械臂能够在多种物体同时存在的复杂桌面环境中，根据使用者的脑电指令准确接近指定目标，并通过灵巧机械手完成稳定抓取。\n\n该系统采用“人类高层意图决策与机器人自主执行”相结合的共享控制方式，将目标选择交由使用者完成，将路径规划、避障和精细抓取交由智能机械臂完成，既降低了脑机接口连续控制的难度，也减轻了使用者的认知负担。该成果可应用于肢体运动功能障碍人员辅助、智能康复训练、无接触设备控制及危险环境远程作业等场景，为脑机接口技术与智能机器人深度融合提供了直观、可靠的实验验证平台。",
+      "image": "/uploads/0614a97196d0ec15.mp4",
       "descriptionStyle": {},
       "descriptionImages": [],
-      "descriptionHtml": ""
+      "descriptionHtml": "<p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">“脑电驱动智能机械臂系统”主要由脑电信号采集设备、视觉感知模块、脑机交互界面、智能控制算法以及多自由度机械臂组成。实验过程中，使用者佩戴脑电采集装置，通过注视屏幕中不同位置的视觉刺激目标产生相应的脑电响应。系统对采集到的脑电信号进行滤波、特征提取与意图识别，从而判断使用者希望机械臂选择和操作的目标物体。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">在目标识别阶段，摄像机实时采集桌面场景，视觉算法对多个物体进行检测、定位与标注，并将候选目标映射到脑机交互界面。使用者无需通过键盘、鼠标或手柄进行复杂操作，只需集中注意力选择目标，即可向系统发送控制意图。识别到目标后，机械臂根据物体的位置、尺寸和姿态自主规划运动轨迹，完成手臂移动、末端姿态调整、抓取、搬运及放置等连续操作。视频中，机械臂能够在多种物体同时存在的复杂桌面环境中，根据使用者的脑电指令准确接近指定目标，并通过灵巧机械手完成稳定抓取。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><font face=\"宋体\">该系统采用</font><font face=\"宋体\">“人类高层意图决策与机器人自主执行”相结合的共享控制方式，将目标选择交由使用者完成，将路径规划、避障和精细抓取交由智能机械臂完成，既降低了脑机接口连续控制的难度，也减轻了使用者的认知负担。该成果可应用于肢体运动功能障碍人员辅助、智能康复训练、无接触设备控制及危险环境远程作业等场景，为脑机接口技术与智能机器人深度融合提供了直观、可靠的实验验证平台。</font></span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>"
     },
     {
-      "title": "数字展陈与互动秀场",
-      "description": "结合实时渲染、交互投影和虚拟人，打造可巡展、可传播、可复用的数字时尚内容。",
-      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?auto=format&fit=crop&w=1000&q=88",
+      "title": "变电站智能巡检平台：减少人工现场巡检压力，为设备安全运行、故障风险预警和电力系统智能运维提供可靠的技术支撑",
+      "description": "“变电站智能巡检平台”以数字化、可视化和智能化技术为支撑，将变电站设备管理、视频监控、巡检任务和运行数据统一接入，实现多个变电站的集中管控。用户登录系统后，可进入集控站总览界面，通过电子地图直观查看各变电站的地理分布、接入情况、装置在线状态及运行统计信息，并可快速跳转至对应变电站的详细管理页面。\n\n在变电站总览界面中，平台通过高精度三维模型完整还原站区建筑、设备和空间布局，使管理人员能够从不同视角查看变电站全貌。系统支持摄像机监控点位与三维场景联动，用户点击模型中的监控点，即可调取对应的实时视频画面，快速掌握现场设备及周边环境情况。平台同时提供设备列表、摄像机信息、监测数据和运行状态等内容，实现站内资源的统一展示与便捷查询。\n\n在巡检管理方面，平台支持巡检任务的创建、配置、下发与全过程监控。管理人员可根据实际需求选择立即执行、定期执行、周期执行或间隔执行等任务模式，灵活设置巡检时间、巡检点位和执行内容。任务执行过程中，系统可通过列表、日历及状态表格实时展示任务进度、执行结果和异常情况，便于工作人员及时掌握巡检动态。该平台有效提升了变电站巡检工作的标准化、自动化和精细化水平，减少人工现场巡检压力，为设备安全运行、故障风险预警和电力系统智能运维提供可靠的技术支撑。",
+      "image": "/uploads/6e09dac114644e5a.mp4",
       "descriptionStyle": {},
       "descriptionImages": [],
-      "descriptionHtml": ""
+      "descriptionHtml": "<p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">“变电站智能巡检平台”以数字化、可视化和智能化技术为支撑，将变电站设备管理、视频监控、巡检任务和运行数据统一接入，实现多个变电站的集中管控。用户登录系统后，可进入集控站总览界面，通过电子地图直观查看各变电站的地理分布、接入情况、装置在线状态及运行统计信息，并可快速跳转至对应变电站的详细管理页面。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">在变电站总览界面中，平台通过高精度三维模型完整还原站区建筑、设备和空间布局，使管理人员能够从不同视角查看变电站全貌。系统支持摄像机监控点位与三维场景联动，用户点击模型中的监控点，即可调取对应的实时视频画面，快速掌握现场设备及周边环境情况。平台同时提供设备列表、摄像机信息、监测数据和运行状态等内容，实现站内资源的统一展示与便捷查询。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">在巡检管理方面，平台支持巡检任务的创建、配置、下发与全过程监控。管理人员可根据实际需求选择立即执行、定期执行、周期执行或间隔执行等任务模式，灵活设置巡检时间、巡检点位和执行内容。任务执行过程中，系统可通过列表、日历及状态表格实时展示任务进度、执行结果和异常情况，便于工作人员及时掌握巡检动态。该平台有效提升了变电站巡检工作的标准化、自动化和精细化水平，减少人工现场巡检压力，为设备安全运行、故障风险预警和电力系统智能运维提供可靠的技术支撑。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>"
     },
     {
-      "title": "33",
-      "description": "33",
-      "image": "/uploads/4d9ef10a0c650dc6.png",
+      "title": "一针快检--基于生物电阻抗的肿瘤探针及检测系统：新型微针电极及配套智能识别系统，为肿瘤早期筛查提供了新的技术路径",
+      "description": "“一针快检”技术及其研发应用成果。当前，癌症已成为威胁人类健康的重要疾病之一，但部分肿瘤早期症状不明显，传统检测方式往往存在流程复杂、费用较高、检测周期较长等问题，导致早期诊断率仍然偏低。针对上述痛点，研发团队围绕微创、快速、精准和低成本检测需求，研制出新型微针电极及配套智能识别系统，为肿瘤早期筛查提供了新的技术路径。\n\n检测过程中，微针电极可对人体相关部位进行微创采样或信号采集，具有针体细小、使用便捷、安全性较高等特点，能够减轻受检者的不适感。系统对采集到的微弱生物电信号进行滤波、去噪和特征提取，有效降低环境干扰与采样噪声的影响。在此基础上，团队开发智能识别算法，对不同类型的信号特征进行分析与分类，识别精度可达到98%左右，从而辅助判断异常组织及相关疾病风险。\n\n“一针快检”还建立了配套的数字化检测平台，能够完成检测信息录入、数据分析、结果显示和报告输出等操作，进一步提升检测效率和使用便利性。相较于部分传统检测手段，该技术可显著缩短检测时间，并将检测成本有效降低约80%，有助于推动肿瘤筛查由大型医疗机构向基层医院、社区及家庭健康管理场景延伸。该成果融合了新材料、微型传感器、医学检测与人工智能算法，具有快速、精准、低成本和易推广等优势，为重大疾病早筛早诊、分级诊疗及智慧医疗发展提供了重要技术支撑。",
+      "image": "/uploads/ba6d98099f6a5129.mp4",
       "descriptionStyle": {},
       "descriptionImages": [],
-      "descriptionHtml": ""
-    },
-    {
-      "title": "22",
-      "description": "",
-      "image": "/uploads/3e3fc3ca76ee430f.jpg",
-      "descriptionStyle": {},
-      "descriptionImages": [],
-      "descriptionHtml": ""
+      "descriptionHtml": "<p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">“一针快检”技术及其研发应用成果。当前，癌症已成为威胁人类健康的重要疾病之一，但部分肿瘤早期症状不明显，传统检测方式往往存在流程复杂、费用较高、检测周期较长等问题，导致早期诊断率仍然偏低。针对上述痛点，研发团队围绕微创、快速、精准和低成本检测需求，研制出新型微针电极及配套智能识别系统，为肿瘤早期筛查提供了新的技术路径。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><font face=\"宋体\">检测过程中，微针电极可对人体相关部位进行微创采样或信号采集，具有针体细小、使用便捷、安全性较高等特点，能够减轻受检者的不适感。系统对采集到的微弱生物电信号进行滤波、去噪和特征提取，有效降低环境干扰与采样噪声的影响。在此基础上，团队开发智能识别算法，对不同类型的信号特征进行分析与分类，识别精度可达到</font><font face=\"宋体\">98%左右，从而辅助判断异常组织及相关疾病风险。</font></span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"text-indent:24.0000pt;mso-char-indent-count:2.0000;line-height:150%;\"><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\">“一针快检”还建立了配套的数字化检测平台，能够完成检测信息录入、数据分析、结果显示和报告输出等操作，进一步提升检测效率和使用便利性。相较于部分传统检测手段，该技术可显著缩短检测时间，并将检测成本有效降低约80%，有助于推动肿瘤筛查由大型医疗机构向基层医院、社区及家庭健康管理场景延伸。该成果融合了新材料、微型传感器、医学检测与人工智能算法，具有快速、精准、低成本和易推广等优势，为重大疾病早筛早诊、分级诊疗及智慧医疗发展提供了重要技术支撑。</span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-bidi-font-family:'Times New Roman';\nline-height:150%;font-size:12.0000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>"
     }
   ],
   "digitalFashion": {
@@ -305,22 +297,6 @@
         "title": "跨平台数字展陈",
         "description": "面向网页、展厅大屏和沉浸式空间输出数字服装内容，让作品具备更强传播和复用能力。",
         "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1000&q=88",
-        "descriptionStyle": {},
-        "descriptionImages": [],
-        "descriptionHtml": ""
-      },
-      {
-        "title": "55",
-        "description": "55",
-        "image": "/uploads/3a117ffc5011ce1a.png",
-        "descriptionStyle": {},
-        "descriptionImages": [],
-        "descriptionHtml": ""
-      },
-      {
-        "title": "55",
-        "description": "555",
-        "image": "/uploads/d33f2a7973ec8d56.png",
         "descriptionStyle": {},
         "descriptionImages": [],
         "descriptionHtml": ""
