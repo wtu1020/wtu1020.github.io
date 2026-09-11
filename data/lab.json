@@ -291,35 +291,37 @@
     "items": [
       {
         "title": "智裳锦绣·衣启未来",
-        "description": "AI深度融合服装行业，洞察流行趋势、服装智能推荐、虚拟试衣与智能服装设计。",
+        "description": "AI深度融合服装行业，洞察流行趋势、服装智能推荐、虚拟试衣与智能服装设计。（请访问fashionlab.wtu.edu.cn）",
         "image": "/uploads/2a936c9706b593cb.png",
-        "descriptionStyle": {},
+        "descriptionStyle": {
+          "textAlign": "left"
+        },
         "descriptionImages": [],
-        "descriptionHtml": "AI深度融合服装行业，洞察流行趋势、服装智能推荐、虚拟试衣与智能服装设计。"
+        "descriptionHtml": "<span style=\"text-align: left; display: block;\">AI深度融合服装行业，洞察流行趋势、服装智能推荐、虚拟试衣与智能服装设计。<span style=\"text-indent: 2em;\">（请访问fashionlab.wtu.edu.cn）</span></span><div><span style=\"text-indent: 2em;\"></span></div>"
       },
       {
         "title": "数字时尚·体验中国",
-        "description": "足不出户，体验中国大好风景。",
+        "description": "足不出户，体验中国大好风景。（请访问fashionlab.wtu.edu.cn）",
         "image": "/uploads/7e4d7915d3241c7f.png",
         "descriptionStyle": {},
         "descriptionImages": [],
-        "descriptionHtml": "足不出户，体验中国大好风景。"
+        "descriptionHtml": "足不出户，体验中国大好风景。（请访问fashionlab.wtu.edu.cn）"
       },
       {
         "title": "干衣合韵·数绘华服",
-        "description": "织绘五十六个民族3D服装。",
+        "description": "织绘五十六个民族3D服装。（请访问fashionlab.wtu.edu.cn）",
         "image": "/uploads/e035729a544ad727.png",
         "descriptionStyle": {},
         "descriptionImages": [],
-        "descriptionHtml": "织绘五十六个民族3D服装。"
+        "descriptionHtml": "织绘五十六个民族3D服装。（请访问fashionlab.wtu.edu.cn）"
       },
       {
         "title": "戎装焕彩·筑梦军营",
-        "description": "数字科技遇见军旅情怀，沉浸式军装体验。",
+        "description": "数字科技遇见军旅情怀，沉浸式军装体验。（请访问fashionlab.wtu.edu.cn）",
         "image": "/uploads/0be9c395538ea27c.png",
         "descriptionStyle": {},
         "descriptionImages": [],
-        "descriptionHtml": "数字科技遇见军旅情怀，沉浸式军装体验。"
+        "descriptionHtml": "数字科技遇见军旅情怀，沉浸式军装体验。（请访问fashionlab.wtu.edu.cn）"
       }
     ],
     "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1400&q=88"
